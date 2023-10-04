@@ -20,8 +20,8 @@ Get started with JSONSilo today and elevate your JSON file management to a whole
 <ul>
   <li><a href="https://jsonsilo.com/user/signup">Sign Up</a></li>
    <li><a href="https://docs.jsonsilo.com/">Docs</a></li>
-   <li><a href="#">Examples</a></li>
-   <li><a href="#">Roadmaps</a></li>
+   <li><a href="https://github.com/JSONSilo/nextjs-example">Examples</a></li>
+   <li><a href="https://github.com/JSONSilo/roadmaps">Roadmaps</a></li>
 </ul>
 
 <!--
