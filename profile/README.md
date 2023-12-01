@@ -20,6 +20,16 @@ Here are some simple use cases that you can perform with JSONsilo:
 
 <hr />
 
+## Example Project
+
+![Example Project](https://docs.jsonsilo.com/assets/images/joblist-d651e91e9b293b96942a041619454aeb.png)
+
+- [Live](https://joblist-nextjs.vercel.app/)
+- [GitHub](https://github.com/Jaironlanda/joblist-nextjs)
+
+  
+<hr />
+
 <ul>
   <li><a href="https://jsonsilo.com/user/signup">Sign Up</a></li>
    <li><a href="https://docs.jsonsilo.com/">Docs</a></li>
